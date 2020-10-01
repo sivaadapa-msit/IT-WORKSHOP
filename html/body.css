@@ -1,0 +1,28 @@
+head
+{
+font-size: 50px
+}
+body
+{
+    background-image: url(vihar.jpg);
+ background-size: 100%;
+}
+ h3 {
+    font-family: Impact, Charcoal, sans-serif;
+}
+p
+{
+    color: red;
+}
+h2 {
+    max-width: 500px;
+    height: 100px;
+    background-color: yellowgreen;
+  }
+  p {
+    font-size: 20px;
+  }
+  h1{
+      border: 2px solid gray;
+      border-width: dark ;
+  }
